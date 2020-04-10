@@ -9,8 +9,50 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Thu, 09 Apr 2020 13:24:42 GMT</pubDate>
+    <pubDate>Fri, 10 Apr 2020 13:33:17 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>English essay</title>
+      <link>http://yoursite.com/2020/04/10/title%20English%20essay/</link>
+      <guid>http://yoursite.com/2020/04/10/title%20English%20essay/</guid>
+      <pubDate>Fri, 10 Apr 2020 13:26:11 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;I don’t known why&lt;/p&gt;
+
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<p>I don’t known why</p>]]></content:encoded>
+      
+      <comments>http://yoursite.com/2020/04/10/title%20English%20essay/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>English essay</title>
+      <link>http://yoursite.com/2020/04/10/English%20essay/</link>
+      <guid>http://yoursite.com/2020/04/10/English%20essay/</guid>
+      <pubDate>Fri, 10 Apr 2020 13:26:11 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;I don’t known why&lt;/p&gt;
+
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<p>I don’t known why</p>]]></content:encoded>
+      
+      <comments>http://yoursite.com/2020/04/10/English%20essay/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>博客起始之路</title>
