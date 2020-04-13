@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>吴天建</title>
-    <link>https://pengqi-github-io.now.sh/</link>
+    <link>https://pengqi.xyz/</link>
     
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
@@ -14,8 +14,8 @@
     
     <item>
       <title>English essay</title>
-      <link>https://pengqi-github-io.now.sh/English%20essay/</link>
-      <guid>https://pengqi-github-io.now.sh/English%20essay/</guid>
+      <link>https://pengqi.xyz/English%20essay/</link>
+      <guid>https://pengqi.xyz/English%20essay/</guid>
       <pubDate>Fri, 10 Apr 2020 13:26:11 GMT</pubDate>
       <description>
       
@@ -29,13 +29,13 @@
       
       <content:encoded><![CDATA[<h2 id="Purpose"><a href="#Purpose" class="headerlink" title="Purpose"></a>Purpose</h2><p>In order to improve my English, I intend to write English essays every weekends.</p><h2 id="Themes"><a href="#Themes" class="headerlink" title="Themes"></a>Themes</h2><ol><li><p>your feelings for reading some books</p></li><li><p>some useful thing you understand for other people, some films, some books and so on</p></li><li><p>describe the social concern recently</p></li><li><p>your daily</p></li><li><p>anything you want to say</p></li></ol><h2 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h2><ol><li>dictionaries </li><li>some books about how to write<h2 id="How-much"><a href="#How-much" class="headerlink" title="How much"></a>How much</h2></li></ol><p>at least 1 essays in seven days</p>]]></content:encoded>
       
-      <comments>https://pengqi-github-io.now.sh/English%20essay/#disqus_thread</comments>
+      <comments>https://pengqi.xyz/English%20essay/#disqus_thread</comments>
     </item>
     
     <item>
       <title>博客起始之路</title>
-      <link>https://pengqi-github-io.now.sh/blog%E7%AE%80%E4%BB%8B/</link>
-      <guid>https://pengqi-github-io.now.sh/blog%E7%AE%80%E4%BB%8B/</guid>
+      <link>https://pengqi.xyz/blog%E7%AE%80%E4%BB%8B/</link>
+      <guid>https://pengqi.xyz/blog%E7%AE%80%E4%BB%8B/</guid>
       <pubDate>Fri, 10 Apr 2020 05:24:55 GMT</pubDate>
       <description>
       
@@ -58,7 +58,7 @@
       
       <content:encoded><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><h2 id="为什么写博客"><a href="#为什么写博客" class="headerlink" title="为什么写博客"></a>为什么写博客</h2><ol><li><strong>作业要求</strong>。网络营销老师布置的一个任务是：想办法让你的名字在搜索引擎中排在前面，其中方法有建一个百度贴吧、注册微博和博客、建立个从网站等。而我选择了建立博客。</li><li><strong>兴趣所致</strong>。找资料的时候，看到很多人写博客。又听说写博客能也是让自己成长的一种方式，所以趁着这次机会写写看。不过我技术水平也一般，并不会多写技术类的。</li></ol><h2 id="栏目"><a href="#栏目" class="headerlink" title="栏目"></a>栏目</h2><ol><li><p><strong>周记</strong></p></li><li><p><strong>学习笔记</strong></p><blockquote><p>这些之后再慢慢补充</p></blockquote></li></ol><a id="more"></a><h2 id="搭建博客之路"><a href="#搭建博客之路" class="headerlink" title="搭建博客之路"></a>搭建博客之路</h2><ol><li><p>注册GitHub，我之前已注册，只是懒得用下载git</p></li><li><p>创建一个仓库，设置好最简单的一个博客就ok了。但是，这不是我想要的，太简陋啦</p></li><li><p>下载node.js，配置好一切</p></li><li><p>下载hexo，用node中的命令行</p></li><li><p>下载Next主题，美化博客</p></li><li><p>向百度提交网址，令其收录。勤快点向其它常用搜索引擎申请，我，emmm，有点懒呢</p></li><li><p>详细配置Next, 让博客更加美观 </p></li><li><p>开始写文章</p></li><li><p>学习发文章，发图片，添加各种各样的东西</p><blockquote><p>我的路还没有走完</p></blockquote></li></ol><h2 id="吐槽"><a href="#吐槽" class="headerlink" title="吐槽"></a>吐槽</h2><ol><li>我真的只是想玩博客，不想个人搭建的，因为服务器要钱。但是，新浪博客无法注册，想找别的博客注册。结果就看到了Github建博客的方法，于是走上了不归路。我看到了第一步，结果发现太简单，就继续走，都到第六步了。整了差不多一天</li><li>不太想花时间完善博客了，但是它格外的诱人。我无法拒绝diy的诱惑，啊！！！</li></ol>]]></content:encoded>
       
-      <comments>https://pengqi-github-io.now.sh/blog%E7%AE%80%E4%BB%8B/#disqus_thread</comments>
+      <comments>https://pengqi.xyz/blog%E7%AE%80%E4%BB%8B/#disqus_thread</comments>
     </item>
     
   </channel>
