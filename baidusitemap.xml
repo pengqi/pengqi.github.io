@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pengqi.xyz/English%20essay/</loc>
-    <lastmod>2020-04-12</lastmod>
-  </url>  <url>
-    <loc>https://pengqi.xyz/blog%E7%AE%80%E4%BB%8B/</loc>
+    <loc>https://pengqi.xyz/hello-world/</loc>
     <lastmod>2020-04-12</lastmod>
   </url>
 </urlset>
