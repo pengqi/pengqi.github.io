@@ -9,8 +9,26 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Wed, 06 May 2020 00:24:08 GMT</pubDate>
+    <pubDate>Wed, 27 May 2020 15:40:34 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>打造个人博客</title>
+      <link>https://pengqi.xyz/%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <guid>https://pengqi.xyz/%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <pubDate>Wed, 27 May 2020 15:40:37 GMT</pubDate>
+      <description>
+      
+        &lt;h3 id=&quot;初识github-page&quot;&gt;&lt;a href=&quot;#初识github-page&quot; class=&quot;headerlink&quot; title=&quot;初识github page&quot;&gt;&lt;/a&gt;初识github page&lt;/h3&gt;&lt;p&gt;由于某些原因，我需要注册个博客，准备找新浪微博。但是它现在不提供注册服务。于是我准备找别的博客来代替。&lt;/p&gt;
+&lt;p&gt;在知乎搜索了一番，发现可用的有CSND，博客园等第三方博客。然后，又一不小心瞄到了在&lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;github&lt;/a&gt;上免费搭建个人博客的文章。想到上面的第三方博客样式都是比较固定的，没有太多自由发挥的空间。又因为github page是免费的，于是我忍不住，直接点进去了。然后我就开启了我的个人博客搭建之路。&lt;/p&gt;
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<h3 id="初识github-page"><a href="#初识github-page" class="headerlink" title="初识github page"></a>初识github page</h3><p>由于某些原因，我需要注册个博客，准备找新浪微博。但是它现在不提供注册服务。于是我准备找别的博客来代替。</p><p>在知乎搜索了一番，发现可用的有CSND，博客园等第三方博客。然后，又一不小心瞄到了在<a href="https://github.com/" target="_blank" rel="noopener external nofollow noreferrer">github</a>上免费搭建个人博客的文章。想到上面的第三方博客样式都是比较固定的，没有太多自由发挥的空间。又因为github page是免费的，于是我忍不住，直接点进去了。然后我就开启了我的个人博客搭建之路。</p><a id="more"></a><h3 id="开始搭建"><a href="#开始搭建" class="headerlink" title="开始搭建"></a>开始搭建</h3><p>首先呢，注册一个账号，不过我已经有了，跳过。账号注册是超简单的，他和平常网站没什么区别。然后新建一个Repositories，它就是个仓库，也可以看作一个文件夹。取个名字，<br>yourname.github.io。创建完毕后，选个主题。在setting界面直接ctrl f 搜theme，点击choose a theme，随便选个主题就OK了。（后来发现选主题没什么必要）</p><p>之后下一个github的命令行版，这下载速度好慢。在这期间，闲着逛知乎。又看见了建立搭建个人博客的系列文章，好像有七八篇。看起来超详细。嗯，你字多，我就跟你混。前面的几乎通用，然后我就从他第三篇“绑定github并提交文件”开始看起。然后我绑定git仓库，学会了基本的命令行操作。</p><p>接下是安装node.js，安装也是一路无脑按，如果不想把数据放在在C盘的，就需要配置环境变量。然后安装Hexo，它是一个个人博客网站的框架。先建立一个文件夹，如blog（博客），要输入几条命令，安装它，然后绑定git，此时可以运行了，一个最简单的博客出现了。接下来就是博客美化之路。</p><p><img src="http://yuntu88.oss-cn-beijing.aliyuncs.com/fromlocal/wumingshi.sg@gmail.com/20200413/5ddHtS4pAm.png" alt="一开始的博客"></p><h3 id="主题美化"><a href="#主题美化" class="headerlink" title="主题美化"></a>主题美化</h3><p>下载个Nest主题，配置完基础后，开始美化。我看到这篇文章的时候，看着那30多条要配置的东西，感觉博客美化之路真是深似海。但不美化好多东西都没有，真是太普通了。实在忍不住，还是乖乖去美化。我用了两个钟，按照他说讲，全部配置下来。一运行，出错了。哇，整个人心里巴凉巴凉的，真后悔当初没有设置完一条就去运行尝试一下。然后找了一个多钟的错误。嗯，确认过眼神，是我找不出的错误。挣扎过后，把文件删了，重新开始。这次一步一个脚印，到最后总算成功了。总体来说，添加了旁边的【分类】、【标签】、【关于】栏目，文章开头添加了字数和时间统计，文章末尾添加了“阅读完”的可爱分割线，以及RSS订阅和微信关注。</p><p><img src="http://yuntu88.oss-cn-beijing.aliyuncs.com/fromlocal/wumingshi.sg@gmail.com/20200413/jXQxMBQrsS.gif" alt="一轮美化后的blog.git"></p><p>一轮美化之后，这个博客也像模像样啦。不过看上去没有什么亮点。既然这样，那就加个会动的卡通人物，看起来一下子高级多了。</p><p><img src="http://yuntu88.oss-cn-beijing.aliyuncs.com/fromlocal/wumingshi.sg@gmail.com/20200413/QawixD7kPw.png" alt="blog加了个模型"></p><p>好啦，博客美化暂时告一段落了。我已经肝不动了。如果你们有兴趣，可以尝试更多的美化效果。像什么添加背景音乐，制作雪花特效，鼠标点击特效等等。</p>]]></content:encoded>
+      
+      <comments>https://pengqi.xyz/%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>《后浪》有感</title>
@@ -213,26 +231,6 @@
       <content:encoded><![CDATA[<p>2020-04-15 23:24:34</p><p>老师让我们用自己的名字命名自己的博客、微博之类的，让我们使自己的名字排在搜索引擎的前面。</p><p>今天我用google搜索我的域名，发现网站名字是以前的。晕，怎么不是我的名字。我要等google更新我的网站名字，真不知道要等多久。所以，我要主动出击。先试试这样子做。</p><p>写一篇日志，标题是我的名字。介绍一下我自己之类的。</p><hr><p>2020-04-15 23:30:25</p><p>我想到了水数字的一个神器，狗屁不通文章生成器。下次有需要我就去找找。懒得写这么多字啦。</p><p>不过，让我水的话，我也是很能水的。毕竟看了那么多小说，而且贴吧的吧友这么友好 ，各种水法层出不穷，我自然学到了一点。下次有需要在说。</p><p>听说google更喜欢300字以上的文章，那我再水水。真的，这是今天最后一次水啦。我水我快乐。嗯，就这样三百多字了。</p><hr><p>2020-04-17 09:57:28</p><p>今天去google看了我网站的浏览量，惊，居然有三个。等等，这该不会是我点出来的吧🤦‍！</p><p>然后我无聊的搜了我的名字，一不小心就看到了我的网站，在第四页待着呢！</p><p>没想到我那篇英文写的直接上去了。既然这样，我下次再更新一篇英文试试。</p><p>看了知乎，我大概知道从哪些方面出发了。</p><p><a href="https://zhuanlan.zhihu.com/p/110665548" target="_blank" rel="noopener">几张思维导图就讲清搜索引擎优化（SEO）核心点</a></p><ol><li>原创 + 定期更新：几天水一次完全没有问题</li><li>url优化：现在我的url已经优化过了，层级很少</li><li>链接优化：应该没人会推荐我，但我可以适当地加点推荐别人的链接</li></ol><p>针对上google第四页的那个页面优化</p><ol><li>在后面时不时更新点内容</li></ol><hr><p>2020-04-29 18:41:44</p><p>百度之前就收录了，但是。。。六七十页都找不到我的。因为搜索引擎的关系，后面基本已经看不到了。所以我要努力地更文，提高网站的权重。</p><p>刚好我开始更公众号了。那我就把那几篇文章转发到这里来好了。真的是懒得写什么了。</p><hr><p>2020-05-06 08:25:27</p><p>那么久了，还在百度页面找不到。。。</p><p>只能出狠招了。</p><p>我要在 一 个篇文章中重复提我的名字。。。</p>]]></content:encoded>
       
       <comments>https://pengqi.xyz/%E5%AE%9E%E9%AA%8C%E4%B8%80%E8%BF%9B%E5%BA%A6/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>English essay</title>
-      <link>https://pengqi.xyz/English%20essay/</link>
-      <guid>https://pengqi.xyz/English%20essay/</guid>
-      <pubDate>Fri, 10 Apr 2020 13:26:11 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;h2 id=&quot;Purpose&quot;&gt;&lt;a href=&quot;#Purpose&quot; class=&quot;headerlink&quot; title=&quot;Purpose&quot;&gt;&lt;/a&gt;Purpose&lt;/h2&gt;&lt;p&gt;In order to improve my English, I intend to write 
-        
-      
-      </description>
-      
-      
-      <content:encoded><![CDATA[<h2 id="Purpose"><a href="#Purpose" class="headerlink" title="Purpose"></a>Purpose</h2><p>In order to improve my English, I intend to write English essays every weekends.</p><h2 id="Themes"><a href="#Themes" class="headerlink" title="Themes"></a>Themes</h2><ol><li><p>your feelings for reading some books</p></li><li><p>some useful thing you understand for other people, some films, some books and so on</p></li><li><p>describe the social concern recently</p></li><li><p>your daily</p></li><li><p>anything you want to say</p></li></ol><h2 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h2><ol><li>dictionaries </li><li>some books about how to write<h2 id="How-much"><a href="#How-much" class="headerlink" title="How much"></a>How much</h2></li></ol><p>at least 1 essays in seven days</p>]]></content:encoded>
-      
-      <comments>https://pengqi.xyz/English%20essay/#disqus_thread</comments>
     </item>
     
   </channel>
