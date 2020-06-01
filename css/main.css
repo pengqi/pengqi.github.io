@@ -1195,7 +1195,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e9d7ff;
+  background: #ff85b3;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2786,4 +2786,11 @@ body {
 .sidebar {
   box-shadow: none;
   background: none;
+}
+body {
+  background: url("https://cdn.jsdelivr.net/gh/pengqi/img//pictures/20200527203641.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  opacity: 0.9;
 }
