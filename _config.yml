@@ -101,6 +101,7 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:pengqi/pengqi.github.io.git #你的仓库地址
+  # repo: https://github.com/pengqi/pengqi.github.io.git  #你的仓库地址
   branch: master
 type: baidu_url_submitter 
 
