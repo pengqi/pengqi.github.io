@@ -1,4 +1,4 @@
-{# 鼠标点击特效 #}
+{# 榧犳爣鐐瑰嚮鐗规晥 #}
 {% if theme.cursor_effect == "fireworks" %}
   <script async src="/js/cursor/fireworks.js"></script>
 {% elseif theme.cursor_effect == "explosion" %}
@@ -11,7 +11,7 @@
   <script async src="/js/cursor/text.js"></script>
 {% endif %}
 
-{# 打字特效 #}
+{# 鎵撳瓧鐗规晥 #}
 {% if theme.typing_effect %}
   <script src="/js/activate-power-mode.min.js"></script>
   <script>
@@ -20,3 +20,4 @@
     document.body.addEventListener('input', POWERMODE);
   </script>
 {% endif %}
+

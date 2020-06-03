@@ -1,4 +1,4 @@
-{%- set valine_uri = '//cdn.jsdelivr.net/gh/pengqi/someFiles/Valine.min145.js' %}
+{%- set valine_uri = theme.vendors.valine or '//unpkg.com/valine/dist/Valine.min.js' %}
 
 <script>
 NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {

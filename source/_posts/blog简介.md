@@ -1,8 +1,10 @@
+---
 top: true
 title: 博客起始之路
-date: {{ date }}
-tags: 
-
+date:
+  '[object Object]': null
+abbrlink: 52791
+tags:
 ---
 
 # 简介
