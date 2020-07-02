@@ -121,7 +121,7 @@ menu:
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
-  switch_lang: https://pengqi.xyz/en/ || fa fa-language # 将siriusq.top/en/替换成你的英文网站域名
+  switch_lang: https://pengqi.github.io/en/ || fa fa-language # 将siriusq.top/en/替换成你的英文网站域名
   #resources: /resources/ || fa fa-download 
   about: /about/ || fa fa-user
   #schedule: /schedule/ || fa fa-calendar
