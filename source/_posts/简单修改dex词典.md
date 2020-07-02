@@ -11,7 +11,7 @@ categories:
 软件：
 1. MdxBuilder
 
-	   <!--more-->
+<!--more-->
 
 2. getdict
 
