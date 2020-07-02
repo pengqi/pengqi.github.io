@@ -11,19 +11,17 @@ categories:
 软件：
 1. MdxBuilder
 
+	   <!--more-->
+
 2. getdict
 
 3. MDict
 
 4. EmEditor
 
-	 <!--more-->
-
 词典：
 
 一个dex词典
-
-  
 
 ## 过程
 
