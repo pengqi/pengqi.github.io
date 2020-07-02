@@ -121,7 +121,8 @@ menu:
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
-  resources: /resources/ || fa fa-download 
+  switch_lang: https://pengqi.xyz/en/ || fa fa-language # 将siriusq.top/en/替换成你的英文网站域名
+  #resources: /resources/ || fa fa-download 
   about: /about/ || fa fa-user
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
@@ -376,7 +377,7 @@ back2top:
 
 # Reading progress bar
 reading_progress:
-  enable: false
+  enable: true
   # Available values: top | bottom
   position: top
   color: "#37c6c0"

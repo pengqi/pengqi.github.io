@@ -25,8 +25,8 @@
   position: absolute;
   top: 0;
   width: $sidebar-desktop;
-  opacity: 0.9;  //透明度
-z-index: 10; //层级上升
+  background-color: rgba(251, 251, 251, 0.9);   //透明化
+  z-index: 10; //层级上升
 
   +desktop-large() {
     width: $sidebar-desktop;
@@ -44,6 +44,7 @@ z-index: 10; //层级上升
   display: flex;
   justify-content: space-between;
 
+
   if (hexo-config('sidebar.position') != 'right') {
     flex-direction: row-reverse;
   }
@@ -59,7 +60,10 @@ z-index: 10; //层级上升
   box-sizing: border-box;
   padding: $content-desktop-padding;
   width: $content-wrap;
-  opacity: 0.9;  //透明度
+  background-color: rgba(251, 251, 251, 0.9);  //透明化
+
+
+    
 
   +tablet-mobile() {
     border-radius: initial;

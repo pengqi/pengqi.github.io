@@ -4,7 +4,7 @@ code {
     background: #fbf7f8;
     margin: 2px;
 }
-/* ��������Զ�����ʽ*/
+/* 大代码块的自定义样式*/
 .highlight, pre {
     margin: 5px 0;
     padding: 5px;
@@ -14,19 +14,73 @@ code {
     border: 1px solid #d6d6d6;
 }
 
-
-/* ͸��   background:url( ../themes/next/source/images/lanTingXu.jpg);   background:url( https://cdn.jsdelivr.net/gh/pengqi/img//pictures/20200527203641.png);  */
+/* 透明   background:url( ../themes/next/source/images/lanTingXu.jpg);   background:url( https://cdn.jsdelivr.net/gh/pengqi/img//pictures/20200527203641.png);  */
 body {
     background:url(https://cdn.jsdelivr.net/gh/pengqi/img//pictures/20200625222653.jpg);
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-position:50% 50%;
-    opacity: 0.8;  /*͸����*/
+    background-size: cover;      /*填充*/
 } 
 
 
-/*Բ�ǳ�������֮�������*/
+
+
+/*圆角出现问题之解决方法*/
 .sidebar {
 box-shadow: none
 background: none
 }
+
+
+
+
+/*博客内容透明化
+文章内容的透明度设置*/
+.post-block {
+ background-color: rgba(251, 251, 251, 0.9);  
+}
+
+/*侧边框的透明度设置*/
+.sidebar {
+  background-color: rgba(251, 251, 251, 0.9);  
+  box-shadow: none
+  background: none
+}
+
+/*下面的侧边框*/
+.sidebar-inner {
+   background-color: rgba(251, 251, 251, 0.9);  
+}
+
+/*菜单栏的透明度设置*/
+.header-inner {
+   background-color: rgba(251, 251, 251, 0.9);  
+   z-index: 10;  /*添加它，调整层级*/
+}
+
+/*搜索框（local-search）的透明度设置*/
+.popup {
+   background-color: rgba(251, 251, 251, 0.9);   
+}
+
+/*valine 评论框*/
+.comments {
+   background-color: rgba(251, 251, 251, 0.9);   
+}
+
+/*更多阅读 按钮*/
+.btn {
+    background-color: rgba(251, 251, 251, 0.9);  
+}
+
+/*页脚*/
+.pagination {
+   background-color: rgba(251, 251, 251, 0.9);  
+}
+
+/*网站声明*/
+.footer {
+  color: #ddd;
+}
+
