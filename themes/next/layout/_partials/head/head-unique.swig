@@ -24,10 +24,12 @@
           var href = window.location.href;
           var indexOfEn = href.toLowerCase().indexOf('/en/');
           if(indexOfEn !== -1) {
-              window.location.href = href.replace('/en/', '/');
+	 //这里和下面修改就好了，写上你的英文网站网址
+              window.location.href = href.replace(href, 'https://pengqi.github.io/en/');
           }
           else {
-              window.location.href = href.replace(/(^http[s]?:\/\/[a-z0-9.]*[:?0-9]*\/)(.*)/i, '$1en/$2');
+               // 中文网站网址
+              window.location.href = href.replace(href, 'https://pengqi.xyz/');
           }
           if(typeof(_prevOnload) === 'function') {
               _prevOnload();
