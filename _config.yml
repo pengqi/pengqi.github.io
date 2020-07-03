@@ -114,11 +114,17 @@ symbols_count_time:
   exclude_codeblock: false 
 
 feed:
-  type: rss2
-  path: rss2.xml
-  limit: 10
+  type: atom
+  path: atom.xml
+  limit: 20
   hub:
-  content: 'true'
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  #icon: icon.png
+  autodiscovery: true
+  template:
 
 
 # 自动生成sitemap
