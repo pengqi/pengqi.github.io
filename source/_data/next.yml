@@ -1021,3 +1021,15 @@ cursor_effect: fireworks
 typing_effect:
   colorful: true  # 礼花特效
   shake: false    # 震动特效
+
+
+related_posts:
+  enable: true
+  title: 推荐文章 # Custom header, leave empty to use the default one
+  display_in_home: false
+  params:
+    maxCount: 5
+    PPMixingRate: 0.25
+    isDate: false
+    isImage: false
+    isExcerpt: false
