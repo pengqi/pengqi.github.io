@@ -22,7 +22,7 @@ minify: false
 # Define custom file paths.
 # Create your custom files in site directory `source/_data` and uncomment needed files below.
 custom_file_path:
-  #head: source/_data/head.swig
+  head: source/_data/head.swig
   #header: source/_data/header.swig
   sidebar: source/_data/sidebar.swig
   #postMeta: source/_data/post-meta.swig
@@ -121,7 +121,7 @@ menu:
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
-  switch_lang: https://pengqi.github.io/en/ || fa fa-language # ½«siriusq.top/en/Ìæ»»³ÉÄãµÄÓ¢ÎÄÍøÕ¾ÓòÃû
+  switch_lang: https://pengqi.github.io/en/ || fa fa-language # å°†siriusq.top/en/æ›¿æ¢æˆä½ çš„è‹±æ–‡ç½‘ç«™åŸŸå
   #resources: /resources/ || fa fa-download 
   about: /about/ || fa fa-user
   #schedule: /schedule/ || fa fa-calendar
@@ -747,7 +747,7 @@ local_search:
   enable: true
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
-  trigger: manual  # ÊÖ¶¯£¬ »Ø³µ»òµã»÷ 
+  trigger: manual  # æ‰‹åŠ¨ï¼Œ å›è½¦æˆ–ç‚¹å‡» 
   # Show top n results per article, show all results by setting to -1
   top_n_per_article: 1
   # Unescape html strings to the readable one.
@@ -793,8 +793,8 @@ note:
   #  - modern    bs-callout new (v2-v3) alert style.
   #  - flat      flat callout style with background, like on Mozilla or StackOverflow.
   #  - disabled  disable all CSS styles import of note tag.
-  style: simple
-  icons: false
+  style: flat
+  icons: true
   # Offset lighter of background in % for modern and flat styles (modern: -12 | 12; flat: -18 | 6).
   # Offset also applied to label tag variables. This option can work with disabled note tag.
   light_bg_offset: 0
@@ -802,7 +802,7 @@ note:
 # Tabs tag
 tabs:
   transition:
-    tabs: false
+    tabs: true
     labels: true
 
 # PDF tag
@@ -1004,32 +1004,20 @@ images: images
 
 
 
-# ÎÄÕÂÄ©Î²Ìí¼Ó¡°±¾ÎÄ½áÊø¡±±ê¼Ç
+# æ–‡ç« æœ«å°¾æ·»åŠ â€œæœ¬æ–‡ç»“æŸâ€æ ‡è®°
 passage_end_tag:
   enabled: true
 
-# ÒôÀÖÍâÁ´
+# éŸ³ä¹å¤–é“¾
 background_music: //music.163.com/outchain/player?type=0&id=2120628564&auto=1&height=66
 
 
-# Êó±êµã»÷ÌØĞ§
+# é¼ æ ‡ç‚¹å‡»ç‰¹æ•ˆ
 # mouse click effect: fireworks | explosion | love | text
 cursor_effect: fireworks
 
-# ´ò×ÖÌØĞ§
+# æ‰“å­—ç‰¹æ•ˆ
 # typing effect
 typing_effect:
-  colorful: true  # Àñ»¨ÌØĞ§
-  shake: false    # Õğ¶¯ÌØĞ§
-
-
-related_posts:
-  enable: true
-  title: ÍÆ¼öÎÄÕÂ # Custom header, leave empty to use the default one
-  display_in_home: false
-  params:
-    maxCount: 5
-    PPMixingRate: 0.25
-    isDate: false
-    isImage: false
-    isExcerpt: false
+  colorful: true  # ç¤¼èŠ±ç‰¹æ•ˆ
+  shake: false    # éœ‡åŠ¨ç‰¹æ•ˆ
