@@ -4,14 +4,8 @@ date: 2020-04-10 12:36:42
 type: "about"
 comments: false
 ---
-
-{% note info %}
-### Info Header
-**Welcome** to [Hexo!](https://hexo.io)
-{% endnote %}
-
-{% note info %}
-一个99后大学生，2020年进入大三
+{% note primary %}
+简介：一个来自广东的99后大学生
 爱好：阅读、书法
 {% endnote %}
 {% note info %}
