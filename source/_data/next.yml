@@ -184,6 +184,7 @@ site_state: true
 social:
   GitHub: https://github.com/pengqi || fab fa-github
   E-Mail: mailto:wumingshi.sg@gmail.com || fa fa-envelope
+  Wechat: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI5NDM1MjcyMw== || fa fa-weixin
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
