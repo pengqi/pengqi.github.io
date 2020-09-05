@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>译天的博客</title>
+  <title>译天の小站</title>
   
   <subtitle>探索是一种乐趣</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pengqi.xyz/"/>
-  <updated>2020-09-05T10:11:15.624Z</updated>
+  <updated>2020-09-05T14:13:43.300Z</updated>
   <id>https://pengqi.xyz/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>friends</title>
+    <link href="https://pengqi.xyz/archives/59716.html"/>
+    <id>https://pengqi.xyz/archives/59716.html</id>
+    <published>2020-09-05T14:06:31.000Z</published>
+    <updated>2020-09-05T14:13:43.300Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>找到个好看的主题</title>

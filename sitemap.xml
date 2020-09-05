@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pengqi.xyz/friends/index.html</loc>
+    
+    <lastmod>2020-09-05T14:37:20.228Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pengqi.xyz/search/index.html</loc>
+    
+    <lastmod>2020-09-05T14:26:37.046Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pengqi.xyz/tags/index.html</loc>
+    
+    <lastmod>2020-09-05T14:22:51.682Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pengqi.xyz/archives/59716.html</loc>
+    
+    <lastmod>2020-09-05T14:13:43.300Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://pengqi.xyz/archives/15142.html</loc>
     
     <lastmod>2020-09-05T10:11:15.624Z</lastmod>
@@ -47,13 +75,6 @@
     <loc>https://pengqi.xyz/top/index.html</loc>
     
     <lastmod>2020-08-01T03:45:19.876Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://pengqi.xyz/tags/index.html</loc>
-    
-    <lastmod>2020-08-01T03:45:19.871Z</lastmod>
     
   </url>
   
