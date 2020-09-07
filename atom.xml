@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>译天の小站</title>
+  
+  <subtitle>探索是一种乐趣</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.pengqi.xyz/"/>
+  <updated>2020-09-07T04:23:34.388Z</updated>
+  <id>https://blog.pengqi.xyz/</id>
+  
+  <author>
+    <name>译天</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdown是什么</title>
+    <link href="https://blog.pengqi.xyz/archives/44888.html"/>
+    <id>https://blog.pengqi.xyz/archives/44888.html</id>
+    <published>2020-09-07T03:54:37.000Z</published>
+    <updated>2020-09-07T04:23:34.388Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;markdown是一种标记语言，你可以用它给文本添加格式。可能你要问了，有word等编辑器不是更好吗？&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="软件" scheme="https://blog.pengqi.xyz/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>找到个好看的主题</title>
+    <link href="https://blog.pengqi.xyz/archives/15142.html"/>
+    <id>https://blog.pengqi.xyz/archives/15142.html</id>
+    <published>2020-09-05T09:38:02.000Z</published>
+    <updated>2020-09-05T10:11:15.624Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;去别的博客转转&quot;&gt;&lt;a href=&quot;#去别的博客转转&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="好玩" scheme="https://blog.pengqi.xyz/tags/%E5%A5%BD%E7%8E%A9/"/>
+    
+      <category term="新奇" scheme="https://blog.pengqi.xyz/tags/%E6%96%B0%E5%A5%87/"/>
+    
+      <category term="发现" scheme="https://blog.pengqi.xyz/tags/%E5%8F%91%E7%8E%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>思过去</title>
+    <link href="https://blog.pengqi.xyz/archives/44728.html"/>
+    <id>https://blog.pengqi.xyz/archives/44728.html</id>
+    <published>2020-08-04T08:37:51.000Z</published>
+    <updated>2020-08-04T10:37:16.163Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;当再次在家附近转，我莫名地出现些许伤感。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="随笔" scheme="https://blog.pengqi.xyz/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="动漫" scheme="https://blog.pengqi.xyz/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>狗往何处去</title>
+    <link href="https://blog.pengqi.xyz/archives/16258.html"/>
+    <id>https://blog.pengqi.xyz/archives/16258.html</id>
+    <published>2020-07-31T12:00:08.000Z</published>
+    <updated>2020-08-01T04:35:43.607Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;狗的离去&quot;&gt;&lt;a href=&quot;#狗的离去&quot; class=&quot;headerlink&quot; title=&quot;狗的离去&quot;&gt;&lt;/a&gt;狗的离去&lt;/h3&gt;&lt;p&gt;几个月前，我发现家里的一条狗与其它狗交配。嗯，它是爷爷养的。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="随笔" scheme="https://blog.pengqi.xyz/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开源难，节流易</title>
+    <link href="https://blog.pengqi.xyz/archives/14838.html"/>
+    <id>https://blog.pengqi.xyz/archives/14838.html</id>
+    <published>2020-07-31T07:06:35.000Z</published>
+    <updated>2020-08-01T04:02:33.329Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;开源难&quot;&gt;&lt;a href=&quot;#开源难&quot; class=&quot;headerlink&quot; title=&quot;开源难&quot;&gt;&lt;/a&gt;开源难&lt;/h3&gt;&lt;p&gt;在知乎上找了众多的副业攻略，发现看上去好像可行，实践起来就太惨了。于是，我领悟到了，赚钱真的难。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="人生" scheme="https://blog.pengqi.xyz/categories/%E4%BA%BA%E7%94%9F/"/>
+    
+    
+      <category term="赚钱" scheme="https://blog.pengqi.xyz/tags/%E8%B5%9A%E9%92%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>洗牙</title>
+    <link href="https://blog.pengqi.xyz/archives/42397.html"/>
+    <id>https://blog.pengqi.xyz/archives/42397.html</id>
+    <published>2020-07-06T11:50:36.000Z</published>
+    <updated>2020-08-01T03:45:19.841Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天，直接去医院洗牙。在此之前，看了知乎很多人的感受和经历。了解了大致流程和可能情况。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="-生活经历" scheme="https://blog.pengqi.xyz/tags/%E7%94%9F%E6%B4%BB%E7%BB%8F%E5%8E%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客添加英文版</title>
+    <link href="https://blog.pengqi.xyz/archives/49591.html"/>
+    <id>https://blog.pengqi.xyz/archives/49591.html</id>
+    <published>2020-07-02T11:44:20.000Z</published>
+    <updated>2020-08-01T03:45:19.844Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;p&gt;即日起，博客支持&lt;strong&gt;中英双语&lt;/strong&gt;切换。别忘了，页面下方还支持&lt;strong&gt;简繁切换&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="blog" scheme="https://blog.pengqi.xyz/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>财报造假小技巧</title>
+    <link href="https://blog.pengqi.xyz/archives/60059.html"/>
+    <id>https://blog.pengqi.xyz/archives/60059.html</id>
+    <published>2020-06-29T04:29:33.000Z</published>
+    <updated>2020-08-01T03:45:19.849Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;在学基础会计的时候，老师就说过财报有很多造假手法。我对此感到兴趣，但由于课程原因，老师并没有细讲。不过，当我发现这么一本书后，我的好奇心可以得到满足了。它，《手把手教你读财报》这一书，讲述了各种各样的造假手法。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="阅读" scheme="https://blog.pengqi.xyz/tags/%E9%98%85%E8%AF%BB/"/>
+    
+      <category term="笔记" scheme="https://blog.pengqi.xyz/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《后浪》有感</title>
+    <link href="https://blog.pengqi.xyz/archives/5686.html"/>
+    <id>https://blog.pengqi.xyz/archives/5686.html</id>
+    <published>2020-06-09T13:05:50.000Z</published>
+    <updated>2020-08-01T03:45:19.835Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h2&gt;&lt;p&gt;《后浪》是什么？是B站的一部宣传片。既然是一部宣传片，那么它肯定有宣传片的特点。平时人们说话都知道报喜不报忧。宣传片也会专挑好的讲。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>打造个人博客</title>
+    <link href="https://blog.pengqi.xyz/archives/57054.html"/>
+    <id>https://blog.pengqi.xyz/archives/57054.html</id>
+    <published>2020-06-08T13:06:42.000Z</published>
+    <updated>2020-08-01T03:45:19.839Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;初识github-page&quot;&gt;&lt;a href=&quot;#初识github-page&quot; class=&quot;headerlink&quot; title=&quot;初识github page&quot;&gt;&lt;/a&gt;初识github page&lt;/h3&gt;&lt;p&gt;由于某些原因，我需要注册个博客，准备找新浪微博。但是它现在不提供注册服务。于是我准备找别的博客来代替。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>美化桌面（炫酷）</title>
+    <link href="https://blog.pengqi.xyz/archives/6998.html"/>
+    <id>https://blog.pengqi.xyz/archives/6998.html</id>
+    <published>2020-04-29T10:50:31.000Z</published>
+    <updated>2020-08-01T03:45:19.848Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;美化电脑桌面是每个电脑拥有者都有的需求。但美化方法是多不胜数的，于是我结合自己的经验与其它资料，写出这套美化教程。&lt;/p&gt;&lt;p&gt;根据美化方法的特征，我将美化桌面的方法分成两种，一种是炫酷派，追求酷炫和华丽。一种是极简派，追求简单，没有那么花里胡哨的操作。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="电脑美化" scheme="https://blog.pengqi.xyz/tags/%E7%94%B5%E8%84%91%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简单修改dex词典</title>
+    <link href="https://blog.pengqi.xyz/archives/37475.html"/>
+    <id>https://blog.pengqi.xyz/archives/37475.html</id>
+    <published>2020-04-23T07:06:17.000Z</published>
+    <updated>2020-08-01T03:45:19.846Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;&lt;p&gt;软件：&lt;/p&gt;&lt;ol&gt;&lt;li&gt;MdxBuilder&lt;/li&gt;&lt;/ol&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>onenote同步慢怎么办</title>
+    <link href="https://blog.pengqi.xyz/archives/39794.html"/>
+    <id>https://blog.pengqi.xyz/archives/39794.html</id>
+    <published>2020-04-18T03:34:28.000Z</published>
+    <updated>2020-08-01T03:45:19.832Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;存在问题：&quot;&gt;&lt;a href=&quot;#存在问题：&quot; class=&quot;headerlink&quot; title=&quot;存在问题：&quot;&gt;&lt;/a&gt;存在问题：&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;电脑修改，手机很快同步。但反过来就很慢了&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;使用OneNote clip插件剪辑文章后，电脑上同步超慢的&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="问题" scheme="https://blog.pengqi.xyz/categories/%E9%97%AE%E9%A2%98/"/>
+    
+    
+      <category term="onenote" scheme="https://blog.pengqi.xyz/tags/onenote/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客起始之路</title>
+    <link href="https://blog.pengqi.xyz/archives/52791.html"/>
+    <id>https://blog.pengqi.xyz/archives/52791.html</id>
+    <published>2020-04-08T16:00:00.000Z</published>
+    <updated>2020-08-01T03:45:19.830Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;h2 id=&quot;为什么写博客&quot;&gt;&lt;a href=&quot;#为什么写博客&quot; class=&quot;headerlink&quot; title=&quot;为什么写博客&quot;&gt;&lt;/a&gt;为什么写博客&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;作业要求&lt;/strong&gt;。网络营销老师布置的一个任务是：想办法让你的名字在搜索引擎中排在前面，其中方法有建一个百度贴吧、注册微博和博客、建立个从网站等。而我选择了建立博客。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;兴趣所致&lt;/strong&gt;。找资料的时候，看到很多人写博客。又听说写博客能也是让自己成长的一种方式，所以趁着这次机会写写看。不过我技术水平也一般，并不会多写技术类的。&lt;/li&gt;&lt;/ol&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
