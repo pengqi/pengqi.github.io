@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pengqi.xyz/about/index.html</loc>
+    
+    <lastmod>2020-10-07T09:01:03.764Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://pengqi.xyz/archives/1720.html</loc>
     
     <lastmod>2020-10-05T14:15:30.890Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://pengqi.xyz/archives/15142.html</loc>
     
     <lastmod>2020-09-24T12:40:46.174Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://pengqi.xyz/about/index.html</loc>
-    
-    <lastmod>2020-09-24T12:25:17.373Z</lastmod>
     
   </url>
   
