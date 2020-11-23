@@ -232,7 +232,9 @@
     
     <summary type="html">
     
-      &lt;blockquote&gt;&lt;p&gt;即日起，博客支持&lt;strong&gt;中英双语&lt;/strong&gt;切换。别忘了，页面下方还支持&lt;strong&gt;简繁切换&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+      &lt;blockquote&gt;
+&lt;p&gt;即日起，博客支持&lt;strong&gt;中英双语&lt;/strong&gt;切换。别忘了，页面下方还支持&lt;strong&gt;简繁切换&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
@@ -306,7 +308,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;美化电脑桌面是每个电脑拥有者都有的需求。但美化方法是多不胜数的，于是我结合自己的经验与其它资料，写出这套美化教程。&lt;/p&gt;&lt;p&gt;根据美化方法的特征，我将美化桌面的方法分成两种，一种是炫酷派，追求酷炫和华丽。一种是极简派，追求简单，没有那么花里胡哨的操作。&lt;/p&gt;
+      &lt;p&gt;美化电脑桌面是每个电脑拥有者都有的需求。但美化方法是多不胜数的，于是我结合自己的经验与其它资料，写出这套美化教程。&lt;/p&gt;
+&lt;p&gt;根据美化方法的特征，我将美化桌面的方法分成两种，一种是炫酷派，追求酷炫和华丽。一种是极简派，追求简单，没有那么花里胡哨的操作。&lt;/p&gt;
     
     </summary>
     
@@ -325,7 +328,10 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;&lt;p&gt;软件：&lt;/p&gt;&lt;ol&gt;&lt;li&gt;MdxBuilder&lt;/li&gt;&lt;/ol&gt;
+      &lt;h2 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;&lt;p&gt;软件：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;MdxBuilder&lt;/li&gt;
+&lt;/ol&gt;
     
     </summary>
     
@@ -342,7 +348,10 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;存在问题：&quot;&gt;&lt;a href=&quot;#存在问题：&quot; class=&quot;headerlink&quot; title=&quot;存在问题：&quot;&gt;&lt;/a&gt;存在问题：&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;电脑修改，手机很快同步。但反过来就很慢了&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;使用OneNote clip插件剪辑文章后，电脑上同步超慢的&lt;/p&gt;
+      &lt;h3 id=&quot;存在问题：&quot;&gt;&lt;a href=&quot;#存在问题：&quot; class=&quot;headerlink&quot; title=&quot;存在问题：&quot;&gt;&lt;/a&gt;存在问题：&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;电脑修改，手机很快同步。但反过来就很慢了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;使用OneNote clip插件剪辑文章后，电脑上同步超慢的&lt;/p&gt;
     
     </summary>
     
@@ -363,7 +372,10 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;h2 id=&quot;为什么写博客&quot;&gt;&lt;a href=&quot;#为什么写博客&quot; class=&quot;headerlink&quot; title=&quot;为什么写博客&quot;&gt;&lt;/a&gt;为什么写博客&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;作业要求&lt;/strong&gt;。网络营销老师布置的一个任务是：想办法让你的名字在搜索引擎中排在前面，其中方法有建一个百度贴吧、注册微博和博客、建立个从网站等。而我选择了建立博客。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;兴趣所致&lt;/strong&gt;。找资料的时候，看到很多人写博客。又听说写博客能也是让自己成长的一种方式，所以趁着这次机会写写看。不过我技术水平也一般，并不会多写技术类的。&lt;/li&gt;&lt;/ol&gt;
+      &lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;h2 id=&quot;为什么写博客&quot;&gt;&lt;a href=&quot;#为什么写博客&quot; class=&quot;headerlink&quot; title=&quot;为什么写博客&quot;&gt;&lt;/a&gt;为什么写博客&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;作业要求&lt;/strong&gt;。网络营销老师布置的一个任务是：想办法让你的名字在搜索引擎中排在前面，其中方法有建一个百度贴吧、注册微博和博客、建立个从网站等。而我选择了建立博客。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;兴趣所致&lt;/strong&gt;。找资料的时候，看到很多人写博客。又听说写博客能也是让自己成长的一种方式，所以趁着这次机会写写看。不过我技术水平也一般，并不会多写技术类的。&lt;/li&gt;
+&lt;/ol&gt;
     
     </summary>
     
