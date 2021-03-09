@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pengqi.xyz/"/>
-  <updated>2021-03-05T13:07:22.915Z</updated>
+  <updated>2021-02-21T16:18:58.729Z</updated>
   <id>https://pengqi.xyz/</id>
   
   <author>
@@ -15,42 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>个人版本协议</title>
-    <link href="https://pengqi.xyz/archives/7967.html"/>
-    <id>https://pengqi.xyz/archives/7967.html</id>
-    <published>2021-03-05T13:06:16.000Z</published>
-    <updated>2021-03-05T13:07:22.915Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h3&gt;&lt;p&gt;最近，我发现过去的一些事涌上脑海，再去思考，却发现过去似乎错的很离谱，即使当时坚定地认为是对的，认为自己的思维和逻辑很成熟。没错，说的就是&lt;a href=&quot;https://pengqi.xyz/archives/5849.html&quot;&gt;上篇讲的&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;于是，我认为当前的我，与过去的我的思想发生了重大的改变，思维逻辑变得更加地严密。然后又想起我以前说的话，如下&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>过去的错误-高中</title>
-    <link href="https://pengqi.xyz/archives/5849.html"/>
-    <id>https://pengqi.xyz/archives/5849.html</id>
-    <published>2021-03-04T04:26:46.000Z</published>
-    <updated>2021-03-06T10:37:49.259Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;人们常常在一个地方一而再，再而三地跌倒。因此，总结经验非常重要&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;如果你已经错过了那个时间，除了空气，实际上你还可以得到经验。下次不再后悔的经验&lt;/strong&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>梦想之如何年入百万</title>
@@ -455,6 +419,50 @@
     
     
       <category term="电脑美化" scheme="https://pengqi.xyz/tags/%E7%94%B5%E8%84%91%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简单修改dex词典</title>
+    <link href="https://pengqi.xyz/archives/37475.html"/>
+    <id>https://pengqi.xyz/archives/37475.html</id>
+    <published>2020-04-23T07:06:17.000Z</published>
+    <updated>2020-08-01T03:45:19.846Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;&lt;p&gt;软件：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;MdxBuilder&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>onenote同步慢怎么办</title>
+    <link href="https://pengqi.xyz/archives/39794.html"/>
+    <id>https://pengqi.xyz/archives/39794.html</id>
+    <published>2020-04-18T03:34:28.000Z</published>
+    <updated>2020-08-01T03:45:19.832Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;存在问题：&quot;&gt;&lt;a href=&quot;#存在问题：&quot; class=&quot;headerlink&quot; title=&quot;存在问题：&quot;&gt;&lt;/a&gt;存在问题：&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;电脑修改，手机很快同步。但反过来就很慢了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;使用OneNote clip插件剪辑文章后，电脑上同步超慢的&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="问题" scheme="https://pengqi.xyz/categories/%E9%97%AE%E9%A2%98/"/>
+    
+    
+      <category term="onenote" scheme="https://pengqi.xyz/tags/onenote/"/>
     
   </entry>
   
