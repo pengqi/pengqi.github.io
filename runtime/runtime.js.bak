@@ -1,34 +1,34 @@
 setInterval(() => {
-    let create_time = Math.round(new Date('xxxx-xx-xx xx:xx:xx').getTime() / 1000);
-    //xxxx-xx-xx xx:xx:xxµÄ¸ñÊ½Îª£¬Àı£º2020-12-26 00:00:00
+    let create_time = Math.round(new Date('2020-4-16 00:00:00').getTime() / 1000);
+    //xxxx-xx-xx xx:xx:xxçš„æ ¼å¼ä¸ºï¼Œä¾‹ï¼š2020-12-26 00:00:00
     let timestamp = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
     let second = timestamp - create_time;
     let time = new Array(0, 0, 0, 0, 0);
-    //Äê
+    //å¹´
     if (second >= 365 * 24 * 3600) {
       time[0] = parseInt(second / (365 * 24 * 3600));
       second %= 365 * 24 * 3600;
     }
-    //Ìì
+    //å¤©
     if (second >= 24 * 3600) {
       time[1] = parseInt(second / (24 * 3600));
       second %= 24 * 3600;
     }
-    //Ê±
+    //æ—¶
     if (second >= 3600) {
       time[2] = parseInt(second / 3600);
       second %= 3600;
     }
-    //·Ö
+    //åˆ†
     if (second >= 60) {
       time[3] = parseInt(second / 60);
       second %= 60;
     }
-    //Ãë
+    //ç§’
     if (second > 0) {
       time[4] = second;
     }
-    currentTimeHtml = 'Ò»´¨µÄÆæË¼¹ÖÏëÎİÔËĞĞÁË' + ' ' + time[0] + ' Äê ' + time[1] + ' Ìì ' + time[2] + ' Ê± ' + time[3] + ' ·Ö ' + time[4] + ' Ãë';
-    //xxxxxx¿ÉËæÒâ¶¨Òå£¬ÖĞÓ¢ÎÄ¶¼¿É£¬ÀıÈç"Ò»´¨µÄÆæË¼¹ÖÏëÎİÔËĞĞÁË"
+    currentTimeHtml = 'è¯‘å¤©ã®å°ç«™è¿è¡Œäº†' + ' ' + time[0] + ' å¹´ ' + time[1] + ' å¤© ' + time[2] + ' æ—¶ ' + time[3] + ' åˆ† ' + time[4] + ' ç§’';
+    //xxxxxxå¯éšæ„å®šä¹‰ï¼Œä¸­è‹±æ–‡éƒ½å¯ï¼Œä¾‹å¦‚"ä¸€å·çš„å¥‡æ€æ€ªæƒ³å±‹è¿è¡Œäº†"
     document.getElementById("running-time").innerHTML = currentTimeHtml;
   }, 1000);
