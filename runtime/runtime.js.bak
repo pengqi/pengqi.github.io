@@ -28,7 +28,7 @@ setInterval(() => {
     if (second > 0) {
       time[4] = second;
     }
-    currentTimeHtml = '译天の小站运行了' + ' ' + time[0] + ' 年 ' + time[1] + ' 天 ' + time[2] + ' 时 ' + time[3] + ' 分 ' + time[4] + ' 秒';
+    currentTimeHtml = '译天の小站 运行了' + ' ' + time[0] + ' 年 ' + time[1] + ' 天 ' + time[2] + ' 时 ' + time[3] + ' 分 ' + time[4] + ' 秒';
     //xxxxxx可随意定义，中英文都可，例如"一川的奇思怪想屋运行了"
     document.getElementById("running-time").innerHTML = currentTimeHtml;
   }, 1000);

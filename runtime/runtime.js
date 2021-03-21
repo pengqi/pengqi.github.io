@@ -1,5 +1,5 @@
 setInterval(() => {
-    let create_time = Math.round(new Date('2020-4-16 00:00:00').getTime() / 1000);
+    let create_time = Math.round(new Date('2020-4-9 00:00:00').getTime() / 1000);
     //xxxx-xx-xx xx:xx:xx的格式为，例：2020-12-26 00:00:00
     let timestamp = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
     let second = timestamp - create_time;
