@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pengqi.xyz/"/>
-  <updated>2021-02-19T16:12:09.000Z</updated>
+  <updated>2021-09-18T12:15:53.000Z</updated>
   <id>https://pengqi.xyz/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://pengqi.xyz/archives/0.html"/>
+    <id>https://pengqi.xyz/archives/0.html</id>
+    <published>2021-09-18T12:15:53.000Z</published>
+    <updated>2021-09-18T12:15:53.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;details &gt;&lt;summary&gt;2021-09-18&lt;/summary&gt;&lt;div class=&quot;fold-content&quot;&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-日记" scheme="https://pengqi.xyz/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>梦想之如何年入百万</title>
@@ -439,30 +464,6 @@
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>onenote同步慢怎么办</title>
-    <link href="https://pengqi.xyz/archives/39794.html"/>
-    <id>https://pengqi.xyz/archives/39794.html</id>
-    <published>2020-04-18T03:34:28.000Z</published>
-    <updated>2020-04-18T03:34:28.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;存在问题：&quot;&gt;&lt;a href=&quot;#存在问题：&quot; class=&quot;headerlink&quot; title=&quot;存在问题：&quot;&gt;&lt;/a&gt;存在问题：&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;电脑修改，手机很快同步。但反过来就很慢了&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;使用OneNote clip插件剪辑文章后，电脑上同步超慢的&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="问题" scheme="https://pengqi.xyz/categories/%E9%97%AE%E9%A2%98/"/>
-    
-    
-      <category term="onenote" scheme="https://pengqi.xyz/tags/onenote/"/>
     
   </entry>
   
