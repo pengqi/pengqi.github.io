@@ -262,16 +262,16 @@
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    <div id="tcomment" class="twikoo_thread"></div>
+    <div id="valine_container" class="valine_thread"></div>
 
+    
+    
+    
+    
+    
+    
+    
+    
 
 
     </div>
@@ -531,32 +531,18 @@
     
     
     
-
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-
-    
-    
-    
     <script>
         function loadComment() {
             let e;
-            (e = document.createElement("script")).src = 'https://cdn.jsdelivr.net/npm/twikoo@1.4.11/dist/twikoo.all.min.js',
+            (e = document.createElement("script")).src = 'https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js',
             document.body.appendChild(e);
             e.onload = () => {
-                twikoo.init({
-                    envId: 'https://twikoo.pengqi.xyz:300/',
-                    el: '#tcomment'
-                });
+                var valineConfig = {"appId":"3QEX66wKcmdD1pq8IIE07B94-MdYXbMMI","appKey":"OhSjGOpXsev5vJtN59mcDwnM","placeholder":"let's go","path":null,"avatar":null,"meta":["nick","mail","link"],"pageSize":null,"lang":null,"visitor":null,"highlight":null,"avatarForce":null,"recordIP":null,"serverURLs":null,"enableQQ":null,"requiredFields":["nick","mail"],"emojiCDN":null,"emojiMaps":null};
+                valineConfig.el = '#valine_container';
+                for (var i in valineConfig) {
+                    if (valineConfig[i] === null) delete valineConfig[i];
+                }
+                new Valine(valineConfig);
             };
         }
     
@@ -579,6 +565,22 @@
         }, 1);
     </script>
 
+
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+    
 
 
 
