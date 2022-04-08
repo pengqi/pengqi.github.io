@@ -1,5 +1,5 @@
 <link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script>setInterval(() => {
-    let create_time = Math.round(new Date('2020-4-9 00:00:00').getTime() / 1000);
+    let create_time = Math.round(new Date('xxxx-xx-xx xx:xx:xx').getTime() / 1000);
     //xxxx-xx-xx xx:xx:xx的格式为，例：2020-12-26 00:00:00
     let timestamp = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
     let second = timestamp - create_time;
@@ -28,7 +28,8 @@
     if (second > 0) {
       time[4] = second;
     }
-    currentTimeHtml = '译天の小站 运行了' + ' ' + time[0] + ' 年 ' + time[1] + ' 天 ' + time[2] + ' 时 ' + time[3] + ' 分 ' + time[4] + ' 秒';
+    currentTimeHtml ='译天の小站 运行了' + ' ' + time[0] + ' 年 ' + time[1] + ' 天 ' + time[2] + ' 时 ' + time[3] + ' 分 ' + time[4] + ' 秒';
     //xxxxxx可随意定义，中英文都可，例如"一川的奇思怪想屋运行了"
     document.getElementById("running-time").innerHTML = currentTimeHtml;
   }, 1000);
+
