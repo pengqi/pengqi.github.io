@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pengqi.xyz/"/>
-  <updated>2023-09-22T11:41:26.000Z</updated>
+  <updated>2023-09-25T11:27:12.000Z</updated>
   <id>https://pengqi.xyz/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>再相聚</title>
+    <link href="https://pengqi.xyz/archives/29205.html"/>
+    <id>https://pengqi.xyz/archives/29205.html</id>
+    <published>2023-09-25T11:27:12.000Z</published>
+    <updated>2023-09-25T11:27:12.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&quot;&gt;&lt;script
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>回归</title>
@@ -463,27 +486,6 @@
     
     
       <category term="感悟" scheme="https://pengqi.xyz/tags/%E6%84%9F%E6%82%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>财报造假小技巧</title>
-    <link href="https://pengqi.xyz/archives/60059.html"/>
-    <id>https://pengqi.xyz/archives/60059.html</id>
-    <published>2020-06-29T04:29:33.000Z</published>
-    <updated>2020-06-29T04:29:33.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;在学基础会计的时候，老师就说过财报有很多造假手法。我对此感到兴趣，但由于课程原因，老师并没有细讲。不过，当我发现这么一本书后，我的好奇心可以得到满足了。它，《手把手教你读财报》这一书，讲述了各种各样的造假手法。&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="阅读" scheme="https://pengqi.xyz/tags/%E9%98%85%E8%AF%BB/"/>
-    
-      <category term="笔记" scheme="https://pengqi.xyz/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
